@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=generic
+DEVICE=fire
 VENDOR=xiaomi
 
 # Load extract_utils and do some sanity checks
